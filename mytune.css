@@ -1,0 +1,199 @@
+nav{
+border: 1px solid black;
+line-height: 30px;
+word-spacing: 20px;
+color: white;
+background-color: #333;
+}
+body{
+    font-family: 'Pt sans',sans-serif;
+    line-height: 1.6;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    color: white;
+    margin-top: 100px;
+
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+h4{
+    margin-left: 100pxpx;
+    text-align: center;
+}
+#slide1{
+    height: 100vh;
+    background-image: url(../img2/myTunes_files/showcase.jpeg);
+    background-size: cover;
+}
+a:link{
+    color: white;
+}
+#slide2{
+    height: 200vh;
+    background-color: #333;
+    position: relative;
+    bottom: 90px;
+
+}
+#m{
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+
+}
+#n{
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    
+}
+#para1{
+    color: white;
+    position: relative;
+    text-align: center;
+    margin-left: 50px;
+    font-size: 1.3rem;
+
+}
+button{
+    margin-left: 550px;
+    background-color: red;
+    padding: 20px;
+    border: 1px solid black;
+    color: white;
+}
+button:hover{
+    background: color #d3071b;;
+}
+#p1{
+    margin-left: 400px;
+}
+#slide3{
+    height: 150vh;
+    color: white;
+}
+#o{
+   color: black;
+   font: size 2rem;
+   position: relative;
+   bottom: 30px;
+
+}
+#para2{
+ color: black;
+ font-size: 1.3rem;
+ margin-left: 80px;
+}
+#t{
+    background: color #103063;;
+    border: 1px solid black;
+    padding: 1rem;
+    margin-left: 500px;
+    color: #fff;
+
+}
+t:hover{
+    background-color: #143f85;
+}
+#r{
+    height: 100%;
+    width: 100%;
+}
+#slide4{
+    height: 70vh;
+    background: url(../img2/myTunes_files/section-bg.jpeg);
+
+}
+#s{
+    background-size: cover;
+    position: relative;
+    top: 200px;
+
+}
+#q{
+    font-size: 2rem;
+    text-align: center;
+    padding: 10rem;
+    
+}
+#z
+{
+    font-size: 1.3rem;
+    position: relative;
+    margin-left: 20px;
+    bottom: 140px;
+}
+#slide5{
+    height: 70vh;
+}
+#zz{
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    display: inline-block;
+    width: 600px;
+}
+#yy{
+  text-align: left;
+  color: black;
+  bottom: 450px;
+  position: relative;
+  margin-left: 600px;
+}
+#xx{
+   text-align: left;
+   color: black;
+   bottom: 420px;
+   position: relative;
+   margin-left: 600px;
+}
+hr{
+    background-color: black;
+}
+#rr{
+    color: black;
+    position: relative;
+    bottom: 450px;
+    margin-left: 600px;
+    color: #103063;
+}
+#slide6{
+    position: relative;
+    bottom: 380px;
+    background-color: #333;
+   
+   
+}
+.flex
+{
+    display: flex ;
+    justify-content: center;
+    gap: 500px;
+    flex-direction: row;
+    color: white;
+    
+}
+#footer
+{
+   border: 1px solid black;
+    background-color: #333;
+    /* padding: 20px; */
+    /* height: 10px; */
+    position: relative;
+    bottom: 400px;
+}
+#cr
+{
+    color: black;
+    position: relative;
+    bottom: 110px;
+    font-size: 1.3rem;
+    top: 5px;
+}
+
